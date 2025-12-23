@@ -16,9 +16,9 @@
 
 [attachment_0](attachment)
 
-## ⚠️ Compliance & Safety Notice
+##  Compliance & Safety Notice
 
-**1️⃣ 5️⃣ WHAT THIS TOOL IS NOT:**
+** WHAT THIS TOOL IS NOT:**
 
 | Category | Status | Description |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ---
 
-## ⚡ Features
+## Features
 
 * **TCP SYN Scanning (Stealth/Root):** Uses raw sockets to perform "Half-Open" scans. This identifies open ports without completing the TCP handshake, minimizing application logs.
 * **TCP Connect Scanning (User/Connect):** A non-privileged mode for standard auditing without root access.
@@ -39,7 +39,7 @@
 * **Safety Controls:** Built-in rate limiting (`--delay`), thread capping (Max 50), and target validation to prevent Denial of Service (DoS) on legacy systems.
 * **Audit Reports:** Automatically generates structured **JSON** reports for compliance logging.
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # 1. Clone the repository
